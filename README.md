@@ -1,6 +1,6 @@
-- I’m a computer science student in the University "UTFSM" in Chile, I can speak Spanish/English
+- I’m a computer science student in Universidad Técnica Federico Santa María in Chile, I can speak Spanish/English
 - I’m interested in learning how to code and better ways to do it, and my goal is to make a videogame
-- I’m currently learning Python and a little C++
+- I’m currently learning Python and C++
 - Instagram: @\_.yuuichi.\_
 
 <!---
